@@ -1,6 +1,6 @@
-// COLOCO AQUÍ TU NOMBRE COMPLETO
-// COLOCA AQUÍ TU ID
-// COLOCA AQUÍ TU CORREO ELECTRÓNICO
+// COLOCO estebanmunozsepulveda
+// COLOCA 000431110
+// COLOCA esteban081313@gmail.com
 (START)
     @START
     0;JMP
