@@ -3,11 +3,11 @@
 // COLOCA esteban.munozs@upb.edu.co
 //Comprobando estado, Primer programa sin hacer que cada opcion funcione con f o  c.
 //arr=16384 y como llega hasta ROM[24575] entonces n=24577-16384 resultando n=8193, entonces
-@24575
+@16384
 D=A
 @arr
 M=D
-//inicializo arr en 24575
+//inicializo arr en 16384
 @8193
 D=A
 @n
