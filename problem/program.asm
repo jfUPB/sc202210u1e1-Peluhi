@@ -4,3 +4,4 @@
 (START)
     @START
     0;JMP
+//Comprobando estado
