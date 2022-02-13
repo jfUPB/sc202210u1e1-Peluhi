@@ -8,11 +8,11 @@ D=A
 @arr
 M=D
 //inicializo arr en 16384
-@8192
+@8193
 D=A
 @n
 M=D
-//inicializo n en 8192
+//inicializo n en 8193
 @i
 M=0
 //inicializo i en 0
@@ -35,5 +35,5 @@ M=M+1
 @LOOP
 0;JMP
 //
-@END
+(END)
 0;JMP
