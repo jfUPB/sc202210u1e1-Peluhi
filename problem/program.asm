@@ -8,11 +8,11 @@ D=A
 @arr
 M=D
 //inicializo arr en 16384
-@8193
+@8192
 D=A
 @n
 M=D
-//inicializo n en 8193
+//inicializo n en 8192
 @i
 M=0
 //inicializo i en 0
