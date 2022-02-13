@@ -1,9 +1,6 @@
 // COLOCO estebanmunozsepulveda
 // COLOCA 000431110
 // COLOCA esteban.munozs@upb.edu.co
-(START)
-    @START
-    0;JMP
 //Comprobando estado, Primer programa sin hacer que cada opcion funcione con f o  c.
 //arr=16384 y como llega hasta ROM[24575] entonces n=24577-16384 resultando n=8193, entonces
 @24575
